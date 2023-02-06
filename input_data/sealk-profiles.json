@@ -1,0 +1,181 @@
+[
+    {
+        "name": "SPOTIFY",
+        "source": {
+            "name": "source1",
+            "id": "0D43N0-E"
+        },
+        "structure": {
+            "head": {
+                "name": "SPOTIFY TECHNOLOGY SA",
+                "id": "00BJ65-E"
+            },
+            "type": "SUB"
+        },
+        "status": "operating",
+        "type": "strategic",
+        "blurb": "Develops audio and music streaming application",
+        "description": "Spotify AB operates as holding company with interests in music streaming services. The company was founded by Daniel Ek and Martin Lorentzon in 2006 and is headquartered in Luxembourg.",
+        "alias": [
+            "SPOTIFY AB",
+            "SPOTIFY",
+            "SPOTIFY AB"
+        ],
+        "founded": "2006",
+        "website": {
+            "url": "http://www.spotify.com/se",
+            "domain": "spotify.com",
+            "canonical": "spotify"
+        },
+        "location": {
+            "country": "Sweden",
+            "zone_1": "Europe",
+            "zone_2": "Northern Europe",
+            "region": "AB",
+            "city": "Stockholm"
+        },
+        "tag": [
+            {
+                "label": "prepackaged software",
+                "type": "sic"
+            },
+            {
+                "label": "packaged software",
+                "type": "industry"
+            }
+        ]
+    },
+    {
+        "name": "NILAND",
+        "source": {
+            "name": "source1",
+            "id": "0G8V7G-E"
+        },
+        "structure": {
+            "head": {
+                "name": "SPOTIFY TECHNOLOGY SA",
+                "id": "00BJ65-E"
+            },
+            "type": "SUB"
+        },
+        "status": "operating",
+        "type": "strategic",
+        "blurb": "Operates a cloud-based platform that provides music centric discovery solutions",
+        "description": "Niland SA operates a cloud-based platform that provides music centric discovery solutions. It offers music perception engine technology. The company was founded by Damien Tardieu, Christophe Charbuillet and Johan Pages in 2013 and is headquartered in Paris, France.",
+        "alias": [
+            "NILAND SA",
+            "NILAND"
+        ],
+        "founded": "2013",
+        "website": {
+            "url": "http://www.niland.io",
+            "domain": "niland.io",
+            "canonical": "niland"
+        },
+        "location": {
+            "country": "France",
+            "zone_1": "Europe",
+            "zone_2": "Western Europe",
+            "region": "IF",
+            "city": "Paris"
+        },
+        "tag": [
+            {
+                "label": "information retrieval services",
+                "type": "sic"
+            },
+            {
+                "label": "internet software/services",
+                "type": "industry"
+            }
+        ]
+    },
+    {
+        "name": "LOUDR FM",
+        "source": {
+            "name": "source1",
+            "id": "0JDPS2-E"
+        },
+        "structure": {
+            "head": {
+                "name": "SPOTIFY TECHNOLOGY SA",
+                "id": "00BJ65-E"
+            },
+            "type": "SUB"
+        },
+        "status": "operating",
+        "type": "strategic",
+        "blurb": "Provides music licensing services",
+        "description": "Loudr.fm, Inc., a subsidiary of Spotify Technology SA, is a company headquartered in the United States. The firm provides music licensing services. It was acquired by Spotify AB on 12 Apr 18.",
+        "alias": [
+            "LOUDR FM INC",
+            "LOUDR",
+            "LOUDR FM",
+            "LOUDR FM",
+            "LOUDR FM"
+        ],
+        "founded": "2013",
+        "website": {
+            "url": "http://www.loudr.fm",
+            "domain": "loudr.fm",
+            "canonical": "loudr"
+        },
+        "location": {
+            "country": "United States",
+            "zone_1": "Americas",
+            "zone_2": "North America"
+        },
+        "tag": [
+            {
+                "label": "miscellaneous publishing",
+                "type": "sic"
+            },
+            {
+                "label": "commercial printing/forms",
+                "type": "industry"
+            }
+        ]
+    },
+    {
+        "name": "SOUNDCLOUD",
+        "source": {
+            "name": "source1",
+            "id": "07ML2H-E"
+        },
+        "structure": {
+            "isHead": true,
+            "type": "HOL"
+        },
+        "status": "operating",
+        "type": "strategic",
+        "blurb": "Operates an online audio content upload and sharing platform",
+        "description": "SoundCloud Ltd. operates an online audio content upload and sharing platform. It specializes in the design and management of a social platform that lets anyone instantly create, record, and upload sounds and music content. The company was founded in 2007 by Alexander Ljung and Eric Wahlforss and is headquartered Berlin, Germany.",
+        "alias": [
+            "SOUNDCLOUD LTD",
+            "SOUNDCLOUD"
+        ],
+        "founded": "2007",
+        "website": {
+            "url": "http://www.soundcloud.com",
+            "domain": "soundcloud.com",
+            "canonical": "soundcloud"
+        },
+        "location": {
+            "country": "Germany",
+            "zone_1": "Europe",
+            "zone_2": "Western Europe",
+            "region": "BE",
+            "city": "Berlin"
+        },
+        "tag": [
+            {
+                "label": "information retrieval services",
+                "type": "sic"
+            },
+            {
+                "label": "internet software/services",
+                "type": "industry"
+            }
+        ]
+    }
+]
