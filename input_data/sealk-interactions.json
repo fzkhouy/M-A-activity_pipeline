@@ -1,0 +1,63 @@
+[
+    {
+        "source": {
+            "name": "source1",
+            "id": "source1-3008179-0D7613-E-0G8V7G-E",
+            "dealId": 3008179
+        },
+        "subject": {
+            "id": "0D43N0-E"
+        },
+        "object": {
+            "id": "0G8V7G-E"
+        },
+        "type": [
+            "Acquisition / Merger",
+            "Exit",
+            "Private Equity Group"
+        ],
+        "dealType": "m&a",
+        "announced": "2017-05-16",
+        "status": "complete"
+    },
+    {
+        "source": {
+            "name": "source1",
+            "id": "source1-3050021-0D43N0-E-0JDPS2-E",
+            "dealId": 3050021
+        },
+        "subject": {
+            "id": "0D43N0-E"
+        },
+        "object": {
+            "id": "0JDPS2-E"
+        },
+        "type": [
+            "Acquisition / Merger"
+        ],
+        "dealType": "m&a",
+        "announced": "2018-04-11",
+        "status": "complete"
+    },
+    {
+        "source": {
+            "name": "source1",
+            "id": "source1-888865-00BJ65-E-07ML2H-E",
+            "dealId": 888865
+        },
+        "subject": {
+            "id": "0D43N0-E"
+        },
+        "object": {
+            "id": "07ML2H-E"
+        },
+        "type": [
+            "Acquisition / Merger",
+            "Exit",
+            "Rumor"
+        ],
+        "dealType": "m&a",
+        "announced": "2016-09-27",
+        "status": "rumor cancelled"
+    }
+]
