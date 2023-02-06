@@ -47,7 +47,7 @@ def companies_interactions(f_profiles, f_interactions):
         map(create_link, sleak_interactions)
     )
     # save the file with tracking date
-    with open(f"{RESULT_PATH}/sleak_model_{datetime.now()}", "w") as final:
+    with open(f"{RESULT_PATH}/sleak_model_{datetime.now()}.json", "w") as final:
         json.dump(sleak_model_graph, final, indent=4)
 
 
